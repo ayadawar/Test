@@ -13,7 +13,7 @@ How to Run:
 Note: Do not forget to copy cJSON.c and cJSON.h files to your project folder.
 */
 
-// new line
+// new linegghh
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -158,7 +158,7 @@ printf("Zigbee Gateway topic prefix222222222222222222 = %s\n",gatewayTopicUriPre
 					topic_devicejoined = devicejoined_topic;
 					printf("topic_devicejoined0 = %s\n",devicejoined_topic);
 					printf("topic_devicejoined = %s\n",topic_devicejoined);
-					
+
 }
 
 //individual handlers
